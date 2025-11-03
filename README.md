@@ -36,7 +36,7 @@ It helps server admins and moderators manage communities with essential tools li
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/BPYKAXTPABA/Korchi-Bot.git
+    git clone https://github.com/Rodionbdev/Korchi-Bot.git
     cd Korchi-Bot
     ```
 
