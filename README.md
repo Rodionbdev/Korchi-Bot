@@ -70,6 +70,6 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-👤 **Developer**: Alfredo  
-📨 Telegram: [@TPABABPYKAX](https://t.me/TPABABPYKAX)  
+👤 **Developer**: Rodion  
+📨 Telegram: [@Rodionbdev](https://t.me/Rodionbdev)  
 🆔 Discord: `1255968122754699305`
