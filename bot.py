@@ -164,8 +164,8 @@ async def rules_command(ctx):
 @bot.command(name='info')
 async def info_command(ctx):
     infoEmbed = discord.Embed(title="Bot Info", description="Details about bot and developer", color=discord.Color.pink())
-    infoEmbed.add_field(name="Developer", value="Alfredo", inline=False)
-    infoEmbed.add_field(name="Telegram", value="@TPABABPYKAX", inline=False)
+    infoEmbed.add_field(name="Developer", value="Rodion", inline=False)
+    infoEmbed.add_field(name="Telegram", value="@Rodionbdev", inline=False)
     infoEmbed.add_field(name="Discord", value="1255968122754699305", inline=False)
     await ctx.send(embed=infoEmbed)
 
